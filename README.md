@@ -1,10 +1,8 @@
 # Self Learning Anomaly Detection for IoT Sensors
 
-## 📌 Project Overview
+It focuses on detecting anomalies in IoT sensor data using Machine Learning and Deep Learning techniques. The system continuously monitors sensor readings, identifies abnormal behavior in real time, and visualizes the results through an interactive web dashboard.
 
-This project focuses on detecting anomalies in IoT sensor data using Machine Learning and Deep Learning techniques. The system continuously monitors sensor readings, identifies abnormal behavior in real time, and visualizes the results through an interactive web dashboard.
-
-Traditional cloud-based anomaly detection systems suffer from latency, bandwidth usage, and delayed response. To overcome these limitations, this project implements lightweight self-learning models such as Autoencoder and Isolation Forest for efficient anomaly detection in IoT environments.
+Traditional cloud-based anomaly detection systems suffer from latency, bandwidth usage, and delayed response. To overcome these limitations,it implements lightweight self-learning models such as Autoencoder and Isolation Forest for efficient anomaly detection in IoT environments.
 
 ---
 
