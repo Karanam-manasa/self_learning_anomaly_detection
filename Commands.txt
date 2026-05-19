@@ -1,0 +1,25 @@
+BACKEND
+
+py -3.10 -m venv venv
+cd backend
+venv\Scripts\activate
+python -m uvicorn api:app --reload
+
+or
+(without automatic reload)
+
+python -m uvicorn api:app --host 127.0.0.1 --port 8000
+
+server runs at:
+
+http://127.0.0.1:8000/docs
+
+
+FRONTEND
+
+cd frontend
+cd io-ui
+npm run dev
+
+frontend runs at:
+http://localhost:5173/
