@@ -4,7 +4,6 @@ It focuses on detecting anomalies in IoT sensor data using Machine Learning and 
 
 Traditional cloud-based anomaly detection systems suffer from latency, bandwidth usage, and delayed response. To overcome these limitations,it implements lightweight self-learning models such as Autoencoder and Isolation Forest for efficient anomaly detection in IoT environments.
 
----
 
 ## 🚀 Features
 
@@ -18,7 +17,6 @@ Traditional cloud-based anomaly detection systems suffer from latency, bandwidth
 - Real-time visualization of anomalies
 - Detection logs and detailed reports
 
----
 
 ## 🛠️ Technologies Used
 
@@ -39,7 +37,6 @@ Traditional cloud-based anomaly detection systems suffer from latency, bandwidth
 - NumPy
 - Matplotlib
 
----
 
 ## 🧠 Machine Learning Models Used
 
@@ -58,7 +55,6 @@ Traditional cloud-based anomaly detection systems suffer from latency, bandwidth
 - Improves anomaly detection accuracy
 - Reduces false alarms
 
----
 
 ## 📂 Project Modules
 
@@ -97,8 +93,6 @@ Collects real-time data from:
 6. Deployment  
 7. Self-Learning Updates  
 
----
-
 ## 📷 Dashboard Functionalities
 
 - Live Sensor Configuration Panel
@@ -108,7 +102,6 @@ Collects real-time data from:
 - Detection Result Logs
 - Detailed Detection Reports
 
----
 
 ## 📁 Project Structure
 
@@ -159,4 +152,3 @@ The system:
 - Maintains logs and reports for analysis
 
 
-This project provides a lightweight and intelligent anomaly detection system for IoT environments using Machine Learning and Deep Learning techniques. The proposed system improves detection efficiency, reduces latency, and supports real-time monitoring with adaptive self-learning capabilities.
