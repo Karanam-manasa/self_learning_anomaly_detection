@@ -151,4 +151,18 @@ The system:
 - Displays anomaly alerts visually
 - Maintains logs and reports for analysis
 
+<img width="1891" height="916" alt="image" src="https://github.com/user-attachments/assets/d49b974e-3e95-40ff-b74f-5f4d89d9ac64" />
+<img width="1891" height="904" alt="image" src="https://github.com/user-attachments/assets/cda3db94-eb94-4569-8535-4b6bbc5f4191" />
+<img width="1465" height="364" alt="image" src="https://github.com/user-attachments/assets/e2bd228d-af93-4385-a1e6-c6c519ec2945" />
+<img width="1913" height="906" alt="image" src="https://github.com/user-attachments/assets/49b10c5b-3223-4b55-aa63-308c4e2064b9" />
+<img width="1908" height="736" alt="image" src="https://github.com/user-attachments/assets/d8f946b8-5336-405e-92b5-019829158df2" />
+<img width="1897" height="892" alt="image" src="https://github.com/user-attachments/assets/422ec95c-aeaa-4df0-96ee-1bdfb1b56cc9" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e3336871-b74b-4080-b29c-a5cb6ec2c459" />
+
+
+
+
+
+
+
 
