@@ -113,13 +113,13 @@ Collects real-time data from:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/self-learning-anomaly-detection-for-iot-sensors.git
+git clone https://github.com/your-username/self_learning_anomaly_detection.git
 ```
 
 ### 2. Navigate to Project Folder
 
 ```bash
-cd self-learning-anomaly-detection-for-iot-sensors
+cd self_learning_anomaly_detection
 ```
 
 ### 3. Install Backend Dependencies
