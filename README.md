@@ -113,7 +113,7 @@ Collects real-time data from:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/self_learning_anomaly_detection.git
+git clone [https://github.com/your-username/self_learning_anomaly_detection.git](https://github.com/Karanam-manasa/self_learning_anomaly_detection)
 ```
 
 ### 2. Navigate to Project Folder
