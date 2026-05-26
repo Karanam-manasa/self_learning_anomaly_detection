@@ -1,12 +1,10 @@
 # Self Learning Anomaly Detection for IoT Sensors
-
 It focuses on detecting anomalies in IoT sensor data using Machine Learning and Deep Learning techniques. The system continuously monitors sensor readings, identifies abnormal behavior in real time, and visualizes the results through an interactive web dashboard.
 
 Traditional cloud-based anomaly detection systems suffer from latency, bandwidth usage, and delayed response. To overcome these limitations,it implements lightweight self-learning models such as Autoencoder and Isolation Forest for efficient anomaly detection in IoT environments.
 
 
 ## 🚀 Features
-
 - Real-time IoT sensor monitoring
 - Anomaly detection using Machine Learning
 - Autoencoder-based anomaly prediction
@@ -19,7 +17,6 @@ Traditional cloud-based anomaly detection systems suffer from latency, bandwidth
 
 
 ## 🛠️ Technologies Used
-
 ### Frontend
 - React.js
 - HTML
@@ -39,7 +36,6 @@ Traditional cloud-based anomaly detection systems suffer from latency, bandwidth
 
 
 ## 🧠 Machine Learning Models Used
-
 ### 1. Isolation Forest
 - Detects anomalies using tree isolation methods
 - Works well for unsupervised anomaly detection
@@ -57,7 +53,6 @@ Traditional cloud-based anomaly detection systems suffer from latency, bandwidth
 
 
 ## 📂 Project Modules
-
 ### 1. IoT Sensor Data Acquisition
 Collects real-time data from:
 - Temperature reading
@@ -104,12 +99,10 @@ Collects real-time data from:
 
 
 ## 📁 Project Structure
-
 <img width="522" height="655" alt="image" src="https://github.com/user-attachments/assets/46aaa7c3-75b0-42b2-b4f1-ad22ed0399dc" />
 
 
 ## ⚙️ Installation and Setup
-
 ### 1. Clone the Repository
 
 ```bash
