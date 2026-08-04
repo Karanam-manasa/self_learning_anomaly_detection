@@ -3,6 +3,7 @@ BACKEND
 py -3.10 -m venv venv
 cd backend
 venv\Scripts\activate
+pip install -r requirements.txt
 python -m uvicorn api:app --reload
 
 or
